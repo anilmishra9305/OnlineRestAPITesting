@@ -80,6 +80,19 @@ public class TestCase1 {
 	    
 		
 		System.out.println("*********************All Headers End*******************************************");
+		
+		
+		
+		
+		System.out.println("****************Session ID********************");
+		
+		
+		
+		String sessionId=response.getSessionId();
+		System.out.println("Session ID: "+sessionId);
+		
+		
+		
 
 		
 		
